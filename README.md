@@ -1,2 +1,2 @@
 # Machine-Learning
-Collection of my classification and regression problems
+Collection of classification and regression problems
